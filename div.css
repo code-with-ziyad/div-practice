@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.containor{
+    width: 1000px;
+    height: 540px;
+    font-family: monospace;
+    
+   
+
+}
+.row-1{
+    width: 1000PX;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(126, 126, 234);
+    font-size: 75px;
+    
+}
+.row-2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+.row-2-1{
+    width: 200px;
+    height: 40px;
+    float: left;
+    background-color: darkgreen;
+}
+.row-2-2{
+    width: 200px;
+    height: 40px;
+    float: left;
+    background-color: brown;
+}
+.row-2-3{
+    width: 200px;
+    height: 40px;
+    float: left;
+    background-color: darkgoldenrod;
+}
+.row-2-4{
+    width: 200px;
+    height: 40px;
+    float: left;
+    background-color: blue;
+}
+.row-2-5{
+    width: 200px;
+    height: 40px;
+    float: left;
+    background-color: darkorchid;
+}
+.row-3{
+    font-size: 30px;
+    float: inline-start;
+    color: aliceblue;
+    text-align: center;
+}
+.row-3-1{
+    width: 250px;
+    height: 40px;
+    background-color: darkblue;
+}
+.row-3-2{
+    width: 250px;
+    height: 40px;
+    background-color: red;
+}
+.row-3-3{
+    width: 250px;
+    height: 40px;
+    background-color: crimson;
+}
+.row-3-4{
+    width: 250px;
+    height: 40px;
+    background-color: darkmagenta;
+}
+.row-3-5{
+    width: 250px;
+    height: 40px;
+    background-color: firebrick;
+}
+.row-4{
+    height: 150px;
+    width: 1000px;
+    background-color: rgb(126, 126, 234);
+    text-align: center;
+    font-size: 105px;
+    color: rgb(0, 0, 0);
+}
+
+.row-5-1{
+    float: left;
+}
+.row-5-2{
+   float: left;
+}
+.row-5-3{
+    float: left;
+}
+.row-6{
+    font-size: 30px;
+    text-align: center;
+    background: rgb(126, 126, 234);
+}
+
+ 
